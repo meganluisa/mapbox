@@ -1,9 +1,6 @@
 ## Screenshots of Android map steps
 ![Repo with source code](https://github.com/meganluisa/android-app) <br>
-![Youtube live demo of final product](https://youtu.be/lmtk437kEFI)
-<figure class="video_container">
-  <iframe src="https://youtu.be/lmtk437kEFI" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Youtube live demo of final product: https://youtu.be/lmtk437kEFI
 
 **Initializing simple map into android app using Android Studio and Mapbox Maps SDK**
 ![image](https://user-images.githubusercontent.com/52592848/110155235-55fa0a00-7db3-11eb-8c1e-a3e484b3277a.png)
